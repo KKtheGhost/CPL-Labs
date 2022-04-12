@@ -1,0 +1,4 @@
+Every time the program encounters the first character of a word, it counts one more word.
+The variable state records whether the program is currently in a word or not; initially it is “not in a word”, which is assigned the value OUT.
+We prefer the symbolic constants IN and OUT to the literal values 1 and 0 because they make the program more readable.
+In a program as tiny as this, it makes little difference, but in larger programs, the increase in clarity is well worth the modest extra effort to write it this way from the beginning. You'll also find that it's easier to make extensive changes in programs where magic numbers appear only as symbolic constants.
