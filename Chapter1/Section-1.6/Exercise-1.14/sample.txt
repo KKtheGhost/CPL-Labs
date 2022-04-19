@@ -1,0 +1,7 @@
+In C, a function is equivalent to a subroutine or function in Fortran, 
+or a procedure or function in Pascal. A function provides a convenient way to encapsulate some computation,
+which can then be used without worrying about its implementation. With properly designed functions,
+it is possible to ignore how a job is done; knowing what is done is sufficient. 
+C makes the use of functions easy, convenient and efficient;
+you will often see a short function defined and called only once, 
+just because it clarifies some piece of code.

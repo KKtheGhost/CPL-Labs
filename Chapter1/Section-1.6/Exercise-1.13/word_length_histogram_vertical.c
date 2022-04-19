@@ -19,9 +19,6 @@ main()
         if (c == '\n' || c == '\t' || c == ' ') {
             if (state == ON) {
                 ++wnum;
-                if (wl > maxwl) {
-                    maxwl = wl;
-                }
                 wl_array_new = (int*)realloc(wl_array, sizeof(int)*wnum);
                 wl_array = wl_array_new;
             }
@@ -32,6 +29,9 @@ main()
             ++wl;
             state = ON;
             wl_array[wnum-1] = wl;
+            if (wl > maxwl) {
+                maxwl = wl;
+            }
         }
     }
 
