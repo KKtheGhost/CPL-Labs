@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* By VIM default setting, '\t' equals to eight ' '.*/
 #define TABSTOP 8
 
 main() {
