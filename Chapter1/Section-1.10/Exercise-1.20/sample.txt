@@ -1,0 +1,5 @@
+School	Name	Age	Gender
+MIT	Paul	38	Male
+CMU	Sarah	26	Female
+UCLA	David	28	Male
+Yale	Nikki	22	MtF
