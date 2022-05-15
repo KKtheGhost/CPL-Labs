@@ -7,6 +7,8 @@ add_executable(CPL_Labs
         Chapter1/Section-1.1/Exercise-1.1/wrongHello.c
         Chapter1/Section-1.1/Exercise-1.2/wrongHello.c
         Chapter1/Section-1.1/hello-world/hello.c
+        Chapter1/Section-1.10/Exercise-1.20/detab.c
+        Chapter1/Section-1.10/Exercise-1.21/entab.c
         Chapter1/Section-1.10/longest_char/longest_char.c
         Chapter1/Section-1.2/Exercise-1.3/fc-convertor.c
         Chapter1/Section-1.2/Exercise-1.4/cf-convertor.c
