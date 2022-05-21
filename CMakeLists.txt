@@ -9,6 +9,12 @@ add_executable(CPL_Labs
         Chapter1/Section-1.1/hello-world/hello.c
         Chapter1/Section-1.10/Exercise-1.20/detab.c
         Chapter1/Section-1.10/Exercise-1.21/entab.c
+        Chapter1/Section-1.10/Exercise-1.22/fold.c
+        Chapter1/Section-1.10/Exercise-1.23/nocomment.c
+        Chapter1/Section-1.10/Exercise-1.23/sample.c
+        Chapter1/Section-1.10/Exercise-1.23/sample_fix.c
+        Chapter1/Section-1.10/Exercise-1.24/checksyntax.c
+        Chapter1/Section-1.10/Exercise-1.24/sample.c
         Chapter1/Section-1.10/longest_char/longest_char.c
         Chapter1/Section-1.2/Exercise-1.3/fc-convertor.c
         Chapter1/Section-1.2/Exercise-1.4/cf-convertor.c
