@@ -5,4 +5,4 @@ $details= Read-Host -Prompt "Enter the details of commit"
 
 git add .
 git commit -m "$type($topic): $detail"
-git push git@github.com:KKtheGhost/CPL-Labs.git master
+git push git@github.com:KKtheGhost/CPL-Labs.git main
